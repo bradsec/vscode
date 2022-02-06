@@ -150,6 +150,8 @@ Ctrl+Shift+Alt     Column (box) selection page up/down
 ```
 ### Commands for MacOS
 ```terminal
+⇧ = Shift 	   ⌃ = Control (or Ctrl)     ⌥ = Option (or Alt)     ⌘ = Command (or Cmd)
+
 General
 ⇧⌘P, F1           Show Command Palette
 ⌘P                Quick Open, Go to File…
